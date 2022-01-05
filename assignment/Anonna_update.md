@@ -259,7 +259,8 @@ Simply change the size of the page fit.
 ### Ans: display :  flex
 ###      display:   wrap  
 
-             Class-46
-
+             
+             
+## Class-46 
    
 
